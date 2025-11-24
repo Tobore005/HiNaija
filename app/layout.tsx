@@ -6,7 +6,7 @@ import Footer from '@/components/Footer';
 
 export const metadata: Metadata = {
   title: 'HiNaija',
-  description: 'EXplore Nigeria',
+  description: 'Explore Nigeria',
 }
 
 export default function RootLayout({
